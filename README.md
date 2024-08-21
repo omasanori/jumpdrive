@@ -1,6 +1,7 @@
 # Wiredrive
 
-Wiredrive is *a swiss army knife for mobile devices* for flashing a disk image **directly to eMMC,** troubleshooting a broken system, and a lot more.
+Wiredrive is **a swiss army knife for mobile devices** for flashing a disk
+image directly to eMMC, troubleshooting a broken system, and a lot more.
 
 ## License
 
